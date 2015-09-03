@@ -1,0 +1,6 @@
+{
+    "name": "envirojs",
+    "main": "enviro.js",
+    "keywords": ["util", "client", "browser"],
+    "ignore": [".*", "component.json", "package.json"]
+}

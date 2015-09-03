@@ -1,2 +1,2 @@
-# enviro-js
-Facilitates multi-environment front-end development
+# EnviroJS
+Environment Management for the browser
