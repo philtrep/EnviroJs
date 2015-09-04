@@ -1,6 +1,11 @@
 {
     "name": "envirojs",
     "main": "enviro.js",
+    "description": "Environment management for the browser",
+    "homepage": "http://envirojs.com/",
+    "author": "Philippe Trépanier <phil.trepanier@gmail.com>",
+    "license": "Apache",
+    "version": "0.0.1",
     "keywords": ["util", "client", "browser"],
-    "ignore": [".*", "component.json", "package.json"]
+    "ignore": [".*", "component.json", "package.json", "node_modules"],
 }
